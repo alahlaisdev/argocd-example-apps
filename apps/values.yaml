@@ -7,7 +7,7 @@ config:
       targetRevision: master
 
 applications:
-  - name: blue-green
+  - name:  blue-green
     tool:
       helm:
         releaseName: blue-green
